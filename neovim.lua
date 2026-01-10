@@ -10,7 +10,7 @@ return {
                 -- Background colors
                 bg = "#131328",
                 bg_dark = "#131328",
-                bg_highlight = "#7d7da4",
+                bg_highlight = "#3d3d64",
 
                 -- Foreground colors
                 -- fg: Object properties, builtin types, builtin variables, member access, default text
